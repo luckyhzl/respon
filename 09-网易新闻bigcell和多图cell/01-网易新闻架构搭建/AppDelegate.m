@@ -5,7 +5,7 @@
 //  Created by apple on 16/7/19.
 //  Copyright © 2016年 itcast. All rights reserved.
 //
-//已经上传
+
 #import "AppDelegate.h"
 
 @interface AppDelegate ()
